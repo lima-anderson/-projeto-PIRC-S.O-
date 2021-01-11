@@ -1,7 +1,9 @@
-# projeto-PIRC-S.O
+# Projeto conjunto das disciplinas Protocolos e Interconexão de Redes de Computadores e Sistemas Operacionais (2º Período)
+
 Alunos:
-* Micael Pinheiro da Silva
+
 * Anderson Lima
+* Micael Pinheiro da Silva
 
 DOCUMENTAÇÃO:  
 
