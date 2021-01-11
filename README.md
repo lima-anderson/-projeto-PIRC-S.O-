@@ -1,4 +1,4 @@
-# Projeto conjunto das disciplinas Protocolos e Interconexão de Redes de Computadores e Sistemas Operacionais (2º Período)
+## Projeto das disciplinas Protocolos e Interconexão de Redes de Computadores e Sistemas Operacionais (2º Período)
 
 Alunos:
 
